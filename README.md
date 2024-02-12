@@ -1,4 +1,4 @@
-# Summit2024-Prework at Orlando
+# Summit2024-Prework at Orlando Florida
 
 This is for AE 2024 PFT Summit preparation: Software Development Workflows
 
